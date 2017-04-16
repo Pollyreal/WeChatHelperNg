@@ -1,0 +1,12 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/DuoKong.Polly.WeiXin/bin/Debug
+/DuoKong.Polly.WeiXin/obj
+/DuoKong.Polly.WeiXin/obj
+/DuoKong.Polly.WeiXin/obj/Debug
+/DuoKong.Polly.WeiXin/obj
+/WxHelperByPollyNg/bin/Debug
+/WxHelperByPollyNg/obj
+/WxHelperByPollyNg/obj
